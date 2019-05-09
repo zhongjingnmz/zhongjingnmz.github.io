@@ -4,7 +4,7 @@ bio:                '不懼於物，故合於道'
 description:        "曹淼个人主页"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/经方.png'
+logo:               'assets/img/经方01 copy.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -37,25 +37,25 @@ disqus_shortname:   经方后学
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              jkhnfk@qq.com
+twitter:            jkhnfk
+#facebook:           username
+github-url:         zhongjingnmz
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+weibo:             caomiao5648146
 #flickr:            username
 #codepen:           username
 #keybase:           username
