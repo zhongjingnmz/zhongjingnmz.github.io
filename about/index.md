@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: 个人介绍
+tags: [个人介绍, 目录, 论著,]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://zhongjingnmz.github.io/about"><b>仲景牛馬走</b></a> 不懼於物，故合於道</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 个人情况
+* 湖南中医药大学中医亚健康学博士、中医儿科学硕士
+* 目前为湖南中医药大学教师，从事《内经选读》教学工作
+* 长期从事中医亚健康学/中医儿科学/伤寒论/黄帝内经研究
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## 坐诊时间
+* 星期四下午(14:30-17:30)/星期日上午(08:30-12:00)在杏林门诊部（砂子塘路砂子塘小学斜对面）坐诊
+* 星期六上午(08:30-12:00)在谷医堂（体院路雨花区实验小学对面）坐诊
+* 因日常工作较多，且有时需参加学术会议，坐诊时间可能有变更，请就诊前联系相应医馆获取出诊信息
